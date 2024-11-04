@@ -1,0 +1,19 @@
+
+#num_2{
+    color: blue;
+    font-size: 36px;
+}
+
+#num_4{
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+.odd{
+    background-color: lightpink;
+    font-family: Verdana, DejaVu, sans-serif;
+}
+
+.big{
+    font-size: 24px;
+}
